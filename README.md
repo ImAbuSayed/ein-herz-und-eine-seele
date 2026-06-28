@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-herz-und-eine-seele/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ein Herz und eine Seele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-herz-und-eine-seele/) |
+| **Get License** | [License this song: Ein Herz und eine Seele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-herz-und-eine-seele/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, die Nacht ist jung, wir jagen durch die City
+> Dein Blick in meinem Rückspiegel, du bist so verdammt pretty
+> Ein Herz und eine Seele, zwei Schatten im Neonlicht
+> Ich geb' dir alles, was du willst, weil diese Welt uns nicht bricht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
