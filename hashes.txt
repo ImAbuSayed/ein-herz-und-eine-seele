@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ein Herz und eine Seele
+
+This log tracks the cryptographic history and versioning for the song **Ein Herz und eine Seele** (ein-herz-und-eine-seele).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T12:24:38.715545 | `v1` | `11f315dc333b9cb8672fdc28a2dbc08b2ca4ec13bad8a93d25b7d1bfd787a528` | `d57abc3b22945cf65ae5e7f637daffeb4fbf16ece2755a040d9c37998c44b6ae` | `2026-06-28_ein-herz-und-eine-seele-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
